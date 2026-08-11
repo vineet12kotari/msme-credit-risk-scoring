@@ -81,10 +81,6 @@ python scripts/msme_credit_risk_pipeline.py
 - Businesses **under 2 years old** default at 2.4× the rate of
   established businesses — age is a key underwriting variable
 
-## Dashboard Preview
-
-![EDA Dashboard](outputs/eda_dashboard.png)
-![model_evaluation](outputs/model_evaluation.png)
 
 ---
 
