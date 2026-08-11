@@ -56,7 +56,7 @@ msme-credit-risk-scoring/
 
 ```bash
 # 1. Clone the repo
-git clone 
+git clone https://github.com/vineet12kotari/msme-credit-risk-scoring.git
 cd msme-credit-risk-scoring
 
 # 2. Install dependencies
