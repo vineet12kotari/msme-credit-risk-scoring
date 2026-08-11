@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+venv/
+env/
+*.egg-info/
+dist/
+build/
+
+# Credentials — NEVER push passwords to GitHub
+config.py
+secrets.py
+*.env
+db_config.json
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Large data files (keep CSV small or exclude)
+*.sql.gz
+*.dump
+
+# IDE
+.vscode/
+.idea/
+*.swp
